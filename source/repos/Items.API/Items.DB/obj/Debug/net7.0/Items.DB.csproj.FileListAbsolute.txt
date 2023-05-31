@@ -1,0 +1,14 @@
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\bin\Debug\net7.0\Items.DB.deps.json
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\bin\Debug\net7.0\Items.DB.runtimeconfig.json
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\bin\Debug\net7.0\Items.DB.dll
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\bin\Debug\net7.0\Items.DB.pdb
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.csproj.AssemblyReference.cache
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.AssemblyInfoInputs.cache
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.AssemblyInfo.cs
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.csproj.CoreCompileInputs.cache
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.dll
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\refint\Items.DB.dll
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.pdb
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\Items.DB.genruntimeconfig.cache
+C:\Users\Zhamka\source\repos\Items.API\Items.DB\obj\Debug\net7.0\ref\Items.DB.dll
